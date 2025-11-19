@@ -7,7 +7,6 @@ Team Members:
     Olivia Mobley:olm95@pitt.edu
     
 Datasets:
-
     Pavement Schedule: https://data.wprdc.org/dataset/paving-schedule
     Fatal Overdoses:
     Walkability: https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
