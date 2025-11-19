@@ -7,4 +7,4 @@ Team Members:
 Datasets:
     Car Crashes:
     Fatal Overdoses:
-    Walkability:
+    Walkability: https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
